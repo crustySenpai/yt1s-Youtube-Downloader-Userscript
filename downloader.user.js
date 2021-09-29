@@ -6,8 +6,8 @@
 // @author      A Max, crustySenpai
 // @description Ported by crustySenpai
 // @homepage    https://yt1s.com
-// @icon        https://yt1s.com/icon/icon-96x96.png
-// @icon64      https://yt1s.com/icon/icon-96x96.png
+// @icon        https://github.com/crustySenpai/btclod-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
+// @icon64      https://github.com/crustySenpai/btclod-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
 // @updateURL   https://raw.githubusercontent.com/crustySenpai/yt1s-Youtube-Downloader-Userscript/master/downloader.user.js
 // @include     http://*
 // @include     https://*
