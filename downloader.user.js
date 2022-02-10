@@ -1,37 +1,17 @@
 // ==UserScript==
-// @name        crustySenpais YT1s Youtube Downloader
+// @name        YT1s Youtube Downloader
 // @namespace   https://yt1s.com
-// @version     1.0
-// @date        2021.09.29
+// @version     1.1
 // @author      A Max, crustySenpai
 // @description Ported by crustySenpai
 // @homepage    https://yt1s.com
 // @icon        https://github.com/crustySenpai/yt1s-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
 // @icon64      https://github.com/crustySenpai/yt1s-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
 // @updateURL   https://raw.githubusercontent.com/crustySenpai/yt1s-Youtube-Downloader-Userscript/master/downloader.user.js
-// @include     http://*
-// @include     https://*
 // @run-at      document-end
-// @grant       GM_listValues
-// @grant       GM_setValue
-// @grant       GM_getValue
-// @grant       GM_deleteValue
-// @grant       GM_xmlhttpRequest
-// @grant       GM_info
-// @grant       GM_openInTab
-// @grant       GM_setClipboard
-// @grant       GM_registerMenuCommand
-// @grant       GM_unregisterMenuCommand
-// @grant       GM_notification
-// @grant       GM_download
-// @grant       GM.info
-// @grant       GM.listValues
-// @grant       GM.setValue
-// @grant       GM.getValue
-// @grant       GM.deleteValue
-// @grant       GM.openInTab
-// @grant       GM.setClipboard
-// @grant       GM.xmlHttpRequest
+// @match       https://www.youtube.com/*
+// @match       https://www.m.youtube.com/*
+// @match       https://youtu.be/*
 // @connect     youtube.com
 // @connect     m.youtube.com
 // @connect     www.youtube.com
