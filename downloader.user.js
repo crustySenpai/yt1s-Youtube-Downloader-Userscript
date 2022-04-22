@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YT1s Youtube Downloader
 // @namespace   https://yt1s.com
-// @version     1.2
+// @version     1.3
 // @author      A Max, crustySenpai
 // @description Ported by crustySenpai
 // @homepage    https://yt1s.com
