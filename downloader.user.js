@@ -7,6 +7,7 @@
 // @homepage    https://yt1s.com
 // @icon        https://github.com/crustySenpai/yt1s-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
 // @icon64      https://github.com/crustySenpai/yt1s-Youtube-Downloader-Userscript/blob/main/icon.png?raw=true
+// @downloadURL https://raw.githubusercontent.com/crustySenpai/yt1s-Youtube-Downloader-Userscript/master/downloader.user.js
 // @updateURL   https://raw.githubusercontent.com/crustySenpai/yt1s-Youtube-Downloader-Userscript/master/downloader.user.js
 // @match       https://www.youtube.com/*
 // @match       https://www.m.youtube.com/*
